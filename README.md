@@ -6,7 +6,8 @@ Segue uma lista de sites com ideias bacanas, solução de problemas e coisas inu
 
 São ideias. São inspirações.
 
-Site | Descrição 
+Site | Descrição
+------------ | -------------
 https://downforeveryoneorjustme.com | Para saber se um site grandão tá falhando pra geral ou você é quem tem problemas.
 https://theuselessweb.com/ | Site que lista sites inúteis 
 https://www.futureme.org/ | Site que funciona como uma "máquina do tempo". 
