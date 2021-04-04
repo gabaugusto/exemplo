@@ -1,6 +1,4 @@
-# Exemplo
-
-Repositório de teste com os alunos. 
+# Sites Bacanas
 
 Segue uma lista de sites com ideias bacanas, solução de problemas e coisas inusitadas. 
 
