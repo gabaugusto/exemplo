@@ -1,6 +1,9 @@
 # Ferramentas
 
 Segue uma lista de sites que ajudam muito no dia-a-dia. 
+
+## Versionamento
+Site | Descrição
 ------------ | -------------
 https://github.com | Tcharãããã
 
