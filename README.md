@@ -1,32 +1,3 @@
-# Sites Bacanas
+# Bem-vindos! 
 
-Segue uma lista de sites com ideias bacanas, solução de problemas e coisas inusitadas. 
-
-São ideias. São inspirações.
-
-Site | Descrição
------------- | -------------
-https://downforeveryoneorjustme.com | Para saber se um site falhando pra todo mundo ou você é quem tem problemas.
-https://theuselessweb.com/ | Site que lista sites inusitados.
-https://www.futureme.org/ | Mande uma carta para você mesmo no futuro. 
-https://doesthedogdie.com | Para saber se tem algum gatilho no filme que você vai ver ou no livro que você vai ler: se o cachorro morre, se tem aranha, se tem algum tipo de abuso específico que você não quer ver.
-https://jacare-tracker.org | Para saber quantas pessoas viraram jacaré após tomar a vacina para Covid.
-https://sharpen.design | Para receber um desafio de design e treinar - tem desafios de tecnologia também, construir coisas com arduíno e tal. Bem interessante.
-https://justwatch.com | Para saber qual serviço de stream passa o filme que você quer ver.
-https://psafe.com/dfndr-lab/pt-br/… | Site pra analisar se um link compartilhado com você é seguro ou se apresenta risco.
-https://tiii.me/  | Quanto tempo você passa assistindo séries? Descubra aqui.
-http://thistothat.com | Para saber qual cola usar para grudar um material específico em outro material específico. Site bem específico. 
-http://myfonts.com/WhatTheFont/ | Para descobrir qual fonte foi usada em uma determinada composição.
-http://bechdeltest.com | Para ver quais filmes passam o teste de Bechdel: (1) têm 2 mulheres ou mais (com nome!), (2) que falam uma com a outra e (3) o assunto de que falam não é homem.
-http://onelook.com | Para encontrar palavras em vários dicionários ao mesmo tempo (inglês-inglês) - siglas, gírias, expressões, a bagaça toda. Nota: como traduzir "a bagaça toda" para inglês?
-https://charcount.com | Para contar caracteres de um texto. (No Google Docs e no Word, o atalho é ctrl+shift+C.)
-http://oracleofbacon.org | Para saber a quantos graus de separação um ator ou atriz está do Kevin Bacon.
-https://humanclock.com | Para ver fotos mostrando que horas são.
-https://timeanddate.com | Para saber que horas são, calcular o melhor horário para reuniões entre fusos-horários, calcular intervalo entre datas, horários de nascente e poente do sol e da lua, calendários com feriados locais e um monte de outras coisas.
-http://commonsensemedia.org | Para checar o que pode ter em um filme que pode ser problemático para crianças (sexo, droga, rock, palavrão, violência, etc.). Sob um ponto de vista bem americano e conservador, mas pode ser útil.
-https://nexojornal.com.br/interativo/2016/01/11/O-seu-sal%C3%A1rio-diante-da-realidade-brasileira… | Para checar seu salário diante da realidade brasileira, do seu estado, e dos salários de deputado, juiz, médico e professor do ensino fundamental.
-https://footprintcalculator.org | Para ver sua pegada de carbono. Tem em português, mas é português continental, fica bem esquisito.
-politicalcompass.org/test/pt-pt | Para checar sua orientação política.
-http://carto.eng.uerj.br/cgi/index.cgi? | Útil para converter entre coordenadas no formato de graus decimais e UTM, e vice-versa Serve pra verificar a zona UTM também
-https://runpee.com/ | Qual o melhor momento para fazer xixi durante um filme? 
-https://pointerpointer.com/ | Sempre aponta para onde está o cursos do mouse. 
+Veja algumas ferramentas bacanas [Ferramentas.MD](aqui) e alguns sites bacanas [Sites.MD](aqui). 
