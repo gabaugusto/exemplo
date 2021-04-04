@@ -1,3 +1,3 @@
 # Bem-vindos! 
 
-Veja algumas ferramentas bacanas [Ferramentas.MD](aqui) e alguns sites bacanas [Sites.MD](aqui). 
+Veja algumas ferramentas bacanas [aqui](Ferramentas.MD) e alguns sites bacanas [aqui](Sites.MD). 
