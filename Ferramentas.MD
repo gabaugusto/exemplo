@@ -11,7 +11,7 @@ https://pexels.com | Banco de imagens e videos
 https://undraw.co/| Gerador de imagens genéricas. 
 https://unsplash.com/|  Banco de imagens e videos
 https://lipsum.com/| Gerador de texto aleatório
-
+https://www.favicon-generator.org/ | Gerador de Favicons
 ## Inspiração
 Site | Descrição
 ------------ | -------------
