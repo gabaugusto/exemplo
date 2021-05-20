@@ -10,11 +10,17 @@ https://www.icons8.org/ | Ícones (com edição online e tudo!)
 https://pexels.com | Banco de imagens e videos
 https://undraw.co/| Gerador de imagens genéricas. 
 https://unsplash.com/|  Banco de imagens e videos
+https://lipsum.com/| Gerador de texto aleatório
+
+## Inspiração
+Site | Descrição
+------------ | -------------
+http://tympanus.net/codrops/ | web design and development news
 
 ## Versionamento
 Site | Descrição
 ------------ | -------------
-https://github.com | Tcharãããã
+https://github.com/ | Tchanrããããã
 
 ## SEO
 Site | Descrição
