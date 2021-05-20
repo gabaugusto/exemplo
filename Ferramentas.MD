@@ -2,6 +2,15 @@
 
 Segue uma lista de sites que ajudam muito no dia-a-dia. 
 
+## Recursos Gráficos
+Site | Descrição
+------------ | -------------
+https://freepik.com/ | Vetores e outros recursos gráficos
+https://www.icons8.org/ | Ícones (com edição online e tudo!)
+https://pexels.com | Banco de imagens e videos
+https://undraw.co/| Gerador de imagens genéricas. 
+https://unsplash.com/|  Banco de imagens e videos
+
 ## Versionamento
 Site | Descrição
 ------------ | -------------
@@ -24,10 +33,4 @@ https://chrome.google.com/webstore/detail/seoquake/ | Dificuldade de posicioname
 https://yellowlab.tools/ | Análise de Código e desempenho.
 https://developers.google.com/speed/pagespeed/insights/?hl=pt-br | Análise de Código e desempenho.
 
-## Recursos Gráficos
-Site | Descrição
------------- | -------------
-https://freepik.com/ | Vetores e outros recursos gráficos
-https://www.icons8.org/ | Ícones (com edição online e tudo)
-https://pexels.com | Banco de imagens
-https://undraw.co/| Gerador de imagens genéricas. 
+
