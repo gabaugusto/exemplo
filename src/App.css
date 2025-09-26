@@ -1,5 +1,10 @@
 :root{
   --light-color: #FEFEFE;
+  --cor-primaria: #667eea;
+  --cor-secundaria: #764ba2;
+  --cor-terciaria: #FFCC70;
+  --font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  --transition-speed: 0.3s;
 }
 
 .app {
@@ -83,7 +88,7 @@
 
 .card-icon {
   font-size: 3rem;
-  color: #FFF;
+  color: var(--light-color);
   margin-bottom: 1.5rem;
   display: flex;
   justify-content: center;
@@ -119,7 +124,7 @@
   bottom: 1rem;
   right: 1rem;
   background: linear-gradient(135deg, #667eea, #764ba2);
-  color: white;
+  color: var(--light-color);
   width: 40px;
   height: 40px;
   border-radius: 50%;
