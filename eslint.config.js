@@ -4,6 +4,8 @@ import reactHooks from 'eslint-plugin-react-hooks'
 import reactRefresh from 'eslint-plugin-react-refresh'
 import { defineConfig, globalIgnores } from 'eslint/config'
 
+// eslint é o linter que ajuda a manter a qualidade do código
+
 export default defineConfig([
   globalIgnores(['dist']),
   {
