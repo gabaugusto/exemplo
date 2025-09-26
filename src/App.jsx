@@ -1,6 +1,10 @@
 import './App.css'
 import Card from './Card.jsx'
 
+//import { IoFlame } from "react-icons/io5";
+//import { IoRainy } from "react-icons/io5";
+//import { IoLeaf } from "react-icons/io5";
+import { FiAlertOctagon } from "react-icons/fi";
 import { IoRainy, IoFlame, IoLeaf } from "react-icons/io5";
 
 export default function App() {
@@ -9,13 +13,13 @@ export default function App() {
     switch(soundType) {
       case 'rain':
         // Using a nature sounds API or local file
-        console.log('Playing rain sound...');
+        console.log('Tocar som de chuva...');
         break;
       case 'fire':
-        console.log('Playing fire sound...');
+        console.log('Tocar som de fogueira...');
         break;
       case 'forest':
-        console.log('Playing forest sound...');
+        console.log('Tocar som de floresta...');
         break;
     }
   };
