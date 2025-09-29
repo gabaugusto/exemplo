@@ -1,42 +1,21 @@
 import { FiAlertOctagon } from "react-icons/fi";
 
-export default function Card({ icon, title, description, onClick }) {
-
-    var invert = false;
-
-    if (true) {
-        return (
-            <div className="card" onClick={onClick}>
-                <div className="card-icon">
-                    {icon}
-                </div>
-
-                <div className="card-content">
-                    <h2 className="card-title">{title}</h2>
-                    <p className="card-description">{description}</p>
-                </div>
-                <div className="play-indicator">
-                    <span>▶ <FiAlertOctagon /></span>
-                </div>
+export default function Card({ icon, title, description, onClick, isInverted = false }) {
+    return (
+        <div className={isInverted ? "card-invert" : "card"} onClick={onClick}>
+            <div className="card-icon">
+                {icon}
             </div>
-        )
-    } else {
-        return (
-            <div className="card-invert" onClick={onClick}>
-                <div className="card-icon">
-                    {icon}
-                </div>
 
-                <div className="card-content">
-                    <h2 className="card-title">{title}</h2>
-                    <p className="card-description">{description}</p>
-                </div>
-                <div className="play-indicator">
-                    <span>▶ <FiAlertOctagon /></span>
-                </div>
+            <div className="card-content">
+                <h2 className="card-title">{title}</h2>
+                <p className="card-description">{description}</p>
             </div>
-        )
-    }
+            <div className="play-indicator">
+                <span>▶</span>
+            </div>
+        </div>
+    )
 }
 
 export function CardOutro({ props, children }) {
