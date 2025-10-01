@@ -16,7 +16,7 @@ export default function App() {
     forest: false
   });
 
-  var [titulo, setTitulo] = useState("Sons da Vida!");
+  var [titulo, setTitulo] = useState("Sons da Life!");
 
   // Função para alternar o estado do card clicado
   const toggleCardState = (cardType) => {
